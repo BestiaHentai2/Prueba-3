@@ -1,0 +1,14 @@
+ident:23
+nombre:Lolstio
+juego1:fornite
+puntaje1:0
+puntaje2:0
+puntaje3:0
+tipo:principiante
+ident:44
+nombre:pera
+juego1:valorant
+puntaje1:0
+puntaje2:0
+puntaje3:0
+tipo:experto
